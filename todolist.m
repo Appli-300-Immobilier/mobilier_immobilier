@@ -4,10 +4,10 @@
 - **Company Name:** Mobilier&Immobilier
 - **Directory:** mobilier_immobilier
 - **Address/Contact:** 
-  - Abidjan, C�te d'Ivoire, 225
+  - Abidjan, Céte d'Ivoire, 225
   - 
-  - Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
   - +225 0759534702
   - 
