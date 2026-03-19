@@ -4,15 +4,9 @@
 - **Company Name:** Mobilier&Immobilier
 - **Directory:** mobilier_immobilier
 - **Address/Contact:** 
-  - Abidjan, Céte d'Ivoire, 225
-  - 
-  - Abidjan, Céte d'Ivoire
-  - Coordonnées
-  - 
-  - +225 0759534702
-  - 
-  - choeveletissia@gmail.com
-- **Description:** https://www.facebook.com/egbatci
+  - Abidjan, Côte d'Ivoire
+  - +225 075 953 470 2
+- **Description::** https://www.facebook.com/egbatci
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
 

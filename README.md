@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **Mobilier&Immobilier**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 0759534702
+* **Contact :** +225 075 953 470 2
 * **Email :** contact@mobilierimmobilier.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/2250759534702)
 
